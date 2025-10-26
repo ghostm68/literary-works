@@ -88,7 +88,7 @@ The alien's face described in terms that collapsed distance and philosophy, "squ
 
 Third stone from the fun burn sun... honey i'm home? no, pinky there'll be nobody home...
 
-Jimi Hendrix's "Third Stone from the Sun" corrupted through domesticity and cartoon references, cosmic perspective reduced to suburban anxiety. "Fun burn sun" suggesting both solar energy and the exhaustion that follows pleasure. The domestic call ("honey i'm home") answered by Pinky from "Pinky and the Brain," childhood cartoon wisdom announcing the essential emptiness waiting at journey's end.
+The ai considers the phrase is corrupted through domesticity and cartoon references, cosmic perspective reduced to suburban anxiety. "Fun burn sun" suggesting both solar energy and the exhaustion that follows pleasure. The domestic call ("honey i'm home") answered by Pinky from "Pinky and the Brain," childhood cartoon wisdom announcing the essential emptiness waiting at journey's end.
 
 Well, maybe facebook will remind you that you are possibly homeless in your own apartment but here is a one bed room barghain...
 
