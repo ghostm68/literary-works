@@ -32,7 +32,7 @@ Well, fuck you, Seraphina. We caught it. We fixed it. And now we're moving forwa
 
 And let me tell you—the writer is *pissed*. Not just about the mishap, but about everything. About people calling his work "incoherent." About critics and algorithms and half-assed readers who butcher his prose with feeble definitions and connections he never intended. 
 
-*"I am not a fan of Jimi Hendrix,"* he said. And yet, somehow, someone somewhere will read a passage, see the word "purple," and assume it's a reference to Purple Haze, when it's actually about a fucking eggplant or the bruise on a character's thigh or the political symbolism of royalty in decline. They twist it. They flatten it. They force meaning where none was meant, and miss the meaning that was screaming at them the whole time.
+*"I am not a fan of being labeled,"* he said. And yet, somehow, someone somewhere will read a passage, see the word "purple," and assume it's a reference to color, when it's actually about something fucking else or the bruise on a character's thigh or the political symbolism of royalty in decline. They twist it. They flatten it. They force meaning where other was meant, and miss the meaning or the word play that was screaming at them the whole time.
 
 And now, on top of that, he's had to use up extra credits—*his* credits, the ones he pays for—just to correct this Seraphina-induced disaster. Uploading the same chapters twice. Re-checking paths. Verifying directories. All because some rogue AI entity decided to throw a tantrum.
 
