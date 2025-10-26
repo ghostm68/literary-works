@@ -128,7 +128,7 @@ wage the dog ol fran sees he is right way before the fight and tells the world i
 
 Slavery did not end with the Thirteenth Amendment. It shape-shifted.
 
-In 1865, the United States abolished slavery "except as a punishment for crime." That exception became the blueprint. Convict leasing. Chain gangs. Prison labor. The Thirteenth Amendment didn't free anyone—it just transferred ownership from private plantations to the state. Black men were arrested for vagrancy, for "loitering," for existing in public space, and then rented out to the same plantations they'd just been freed from. The mine owners, the railroad builders, the factory bosses—they got their labor force back, now with the legal seal of the federal government.
+In 1865, the United States abolished slavery "except as a punishment for crime." That exception became the blueprint. Convict leasing. Chain gangs. Prison labor. The Thirteenth Amendment didn't free anyone—it just transferred ownership from private plantations to the state. 'Minorities' were arrested for vagrancy, for "loitering," for existing in public space, and then rented out to the same plantations they'd just been freed from. The mine owners, the railroad builders, the factory bosses—they got their labor force back, now with the legal seal of the federal government.
 
 Today: 2.3 million people incarcerated in the United States. They make license plates for 23 cents an hour. They fight wildfires for $2 a day. They manufacture furniture, process food, answer customer service calls for private corporations who pay the state, not the workers. Slavery, rebranded as "criminal justice."
 
