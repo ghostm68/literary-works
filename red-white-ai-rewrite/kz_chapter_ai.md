@@ -206,4 +206,4 @@ He had gone to bed hungry and quickly twisted up some coffee and tasted some mor
 
 ---
 
-*Chapter 28 captures the narrator's descent into anagram-driven paranoia, theological cynicism, and dream-blurred memory, where pornography lawsuits, pandemic wordplay, and historical figures blend into a fragmented meditation on faith, violence, and the collapse of meaning.*
+*Chapter 28 captures the narrator's descent into anagram, theological cynicism, and dream-blurred memory, where pornography lawsuits, pandemic wordplay, and historical figures blend into a fragmented meditation on faith, violence...*
