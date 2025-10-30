@@ -1,4 +1,4 @@
-# Chapter 28: Chapter Forty (Sections 40.1 - 40.60)
+# Chapter kz: Chapter ai (Sections 40.1 - 40.60)
 
 ## 40.1: Desert Sands and Deception
 
