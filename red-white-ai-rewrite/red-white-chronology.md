@@ -68,7 +68,7 @@
 - **1964** - Beatles appear on Ed Sullivan Show
 - **1966** - "Tomorrow Never Knows" (Beatles)
 - **1967** - Summer of Love
-- **1968** - MLK assassination; RFK assassination; Paris riots; Chicago DNC riots
+- **1968** - RFK assassination; Paris riots; Chicago DNC riots
 - **1969** - Woodstock; Moon landing; Manson murders; Altamont
 
 ---
@@ -94,7 +94,7 @@
 - **1982** - *Blade Runner* released
 - **1984** - Orwell's titular year; Apple's 1984 Super Bowl ad
 - **1986** - Challenger disaster; Chernobyl
-- **1987** - Black Monday stock crash
+- **1987** - stock crash
 - **1989** - Tiananmen Square; Berlin Wall falls
 
 ---
@@ -102,9 +102,9 @@
 ## 1990s
 
 - **1991** - Soviet Union collapses; Gulf War
-- **1992** - LA riots (Rodney King)
+- **1992** - LA riots 
 - **1993** - World Trade Center bombing (first); Waco siege
-- **1994** - OJ Simpson chase/trial begins; Rwanda genocide
+- **1994** - Rwanda genocide
 - **1995** - Oklahoma City bombing; Windows 95 launched
 - **1997** - Princess Diana dies; Heaven's Gate cult suicide; Hong Kong handover to China
 - **1998** - Clinton-Lewinsky scandal; Google founded
@@ -122,8 +122,8 @@
 - **2005** - Hurricane Katrina; YouTube founded
 - **2006** - Twitter founded
 - **2007** - iPhone released; financial crisis begins
-- **2008** - Obama elected; Lehman Brothers collapse; financial crash
-- **2009** - Obama inauguration; Bitcoin launched; Michael Jackson dies
+- **2008** - Lehman Brothers collapse; financial crash
+- **2009** -  Bitcoin launched;
 
 ---
 
@@ -206,13 +206,11 @@
 - **2019** - *All Is True*, *The Good Liar*
 
 ### Music
-- **1920s** - Jazz (Louis Armstrong, Duke Ellington)
+- **1920s** - Jazz 
 - **1960s** - Beatles ("Tomorrow Never Knows", "A Day in the Life"); Bob Dylan; Velvet Underground
 - **1970s** - David Bowie; Led Zeppelin; Joni Mitchell
 - **1980s** - Prince; Madonna; Talking Heads
-- **1990s** - Nirvana; Radiohead; Tupac
-- **2000s** - Kanye West; Amy Winehouse
-- **2010s** - Kendrick Lamar; Frank Ocean
+- **1990s** - Nirvana; Radiohead;
 
 ---
 
@@ -220,7 +218,6 @@
 
 *Note: Exact dates often obscured by narrative style; approximations based on textual clues*
 
-- **c. 1960s-70s?** - Birth (implied from age references in 2024 sections)
 - **Youth** - Formative experiences with literature, film
 - **1990s-2000s** - Adult relationships; Emilee relationship
 - **2010s** - Deepening literary work; relationship struggles
@@ -237,7 +234,7 @@ The novel's "present" is primarily **2024**, with the narrator (Ian) reflecting 
 1. **Direct memory** (personal experiences 1970s-2024)
 2. **Historical knowledge** (studied history, cultural literacy)
 3. **Media consumption** (films, books, music absorbed throughout life)
-4. **Paranoid speculation** (conspiracy theories, simulation theory)
+4. * speculation** (conspiracy theories, simulation theory)
 5. **Stream-of-consciousness association** (free-flowing temporal jumps)
 
 The **AI expansion in 2025** adds a meta-narrative layer where the text becomes aware of its own augmentation, creating a recursive temporal loop.
